@@ -1,6 +1,6 @@
-# Hi 👋, I'm Chen Qi
+# Hi 👋, I'm Currylovecarry
 
-- 🔭 I'm currently working on **🎓 @ XJTLU  Information & Computing Science in Suzhou**
+- 🔭 I'm currently studying on **🎓 @ XJTLU  Information & Computing Science in Suzhou**
 
 - 🌱 I'm currently learning **📚 Coursework  
 🧠 Algorithms & Data Structures  
