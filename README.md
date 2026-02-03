@@ -1,63 +1,26 @@
-# 👋 Hi, I'm Qi Chen | 陈淇
+# Hi 👋, I'm Chen Qi
 
-🎓 @ XJTLU  Information & Computing Science 
-💻 Programmer | 🤖 AI / ML Explorer | 🎨 Tech + Creativity Lover  
+- 🔭 I'm currently working on **🎓 @ XJTLU  Information & Computing Science in Suzhou**
 
----
+- 🌱 I'm currently learning **📚 Coursework  
+🧠 Algorithms & Data Structures  
+⚙️ Systems & OS  
+🤖 Artificial Intelligence  
+🛠️ Software Engineering  
+🌐 Networks  
+🎮 Graphics**
 
-> Code with reason. Build with purpose. 🌱
+- 📫 How to reach me **qichen70771@gmail.com**
 
----
+- ⚡ Fun fact **📷**
 
-## 🛠️ Tech Stack
+- 👨‍💻 All of my projects are available at **[https://github.com/Currylovecarry](https://github.com/Currylovecarry)**
 
-### 💻 Programming
-🐍 Python ｜ ☕ Java 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Currylovecarry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Currylovecarry" height="30" width="40" /></a>
+</p>
 
-### 🤖 Data & AI
-📊 Machine Learning  
-🧩 Clustering & Classification  
-📐 Feature Engineering  
-🧠 PCA / t-SNE / Model Evaluation  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
 
-### 🔧 Tools & Engineering
-🔁 Git / GitHub  
-🧪 JUnit  
-🗄️ MySQL  
-🕸️ Computer Networks  
-🎮 OpenGL / Interactive Systems  
-
----
-
-## 🌟 What Makes Me Different
-
-✨ 强调 **原理理解，而不是只会调用库**  
-✨ 喜欢把复杂问题 **拆解成清晰结构**  
-✨ 同时具备 **工程思维 + 研究思维**  
-✨ 对 AI、系统、交互设计都有真实兴趣  
-
----
-
-## 📈 Current Focus
-
-📌 Machine Learning & Data Analysis  
-📌 Software Engineering & System Design  
-📌 AI + Human Interaction  
-📌 Clean Code & Maintainable Architecture  
-
----
-## ✨ About Me
-
-🚀 热爱 **计算机科学 & 人工智能**  
-🧠 关注 **数据、算法、系统背后的逻辑**  
-🎯 追求 **结构清晰、逻辑严谨、结果可复现**  
-🎨 相信 **技术 × 创意 = 更有生命力的产品**
-
-## 🌍 Find Me
-
-🐙 GitHub: [Currylovecarry](https://github.com/Currylovecarry)  
-📫 Email: qichen70771@gmail.com 3112546398@qq.com
-
----
-
-⭐ If you find my profile interesting, feel free to follow!
